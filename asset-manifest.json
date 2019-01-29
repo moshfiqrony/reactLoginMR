@@ -1,15 +1,15 @@
 {
-  "main.css": "/mrreact.github.io/reactLoginMR/static/css/main.81cda7ad.chunk.css",
-  "main.js": "/mrreact.github.io/reactLoginMR/static/js/main.3681522e.chunk.js",
-  "main.js.map": "/mrreact.github.io/reactLoginMR/static/js/main.3681522e.chunk.js.map",
-  "static/css/1.ca66d3fe.chunk.css": "/mrreact.github.io/reactLoginMR/static/css/1.ca66d3fe.chunk.css",
-  "static/js/1.05987b33.chunk.js": "/mrreact.github.io/reactLoginMR/static/js/1.05987b33.chunk.js",
-  "static/js/1.05987b33.chunk.js.map": "/mrreact.github.io/reactLoginMR/static/js/1.05987b33.chunk.js.map",
-  "runtime~main.js": "/mrreact.github.io/reactLoginMR/static/js/runtime~main.2d9ca22b.js",
-  "runtime~main.js.map": "/mrreact.github.io/reactLoginMR/static/js/runtime~main.2d9ca22b.js.map",
-  "static/css/1.ca66d3fe.chunk.css.map": "/mrreact.github.io/reactLoginMR/static/css/1.ca66d3fe.chunk.css.map",
-  "static/css/main.81cda7ad.chunk.css.map": "/mrreact.github.io/reactLoginMR/static/css/main.81cda7ad.chunk.css.map",
-  "index.html": "/mrreact.github.io/reactLoginMR/index.html",
-  "precache-manifest.f9eeafa81b1ede8899bdc08044ccc8fb.js": "/mrreact.github.io/reactLoginMR/precache-manifest.f9eeafa81b1ede8899bdc08044ccc8fb.js",
-  "service-worker.js": "/mrreact.github.io/reactLoginMR/service-worker.js"
+  "main.css": "/reactLoginMR/static/css/main.81cda7ad.chunk.css",
+  "main.js": "/reactLoginMR/static/js/main.3681522e.chunk.js",
+  "main.js.map": "/reactLoginMR/static/js/main.3681522e.chunk.js.map",
+  "static/css/1.ca66d3fe.chunk.css": "/reactLoginMR/static/css/1.ca66d3fe.chunk.css",
+  "static/js/1.05987b33.chunk.js": "/reactLoginMR/static/js/1.05987b33.chunk.js",
+  "static/js/1.05987b33.chunk.js.map": "/reactLoginMR/static/js/1.05987b33.chunk.js.map",
+  "runtime~main.js": "/reactLoginMR/static/js/runtime~main.cefabec1.js",
+  "runtime~main.js.map": "/reactLoginMR/static/js/runtime~main.cefabec1.js.map",
+  "static/css/main.81cda7ad.chunk.css.map": "/reactLoginMR/static/css/main.81cda7ad.chunk.css.map",
+  "static/css/1.ca66d3fe.chunk.css.map": "/reactLoginMR/static/css/1.ca66d3fe.chunk.css.map",
+  "index.html": "/reactLoginMR/index.html",
+  "precache-manifest.6b5847638f7332dd722d20b860cd330a.js": "/reactLoginMR/precache-manifest.6b5847638f7332dd722d20b860cd330a.js",
+  "service-worker.js": "/reactLoginMR/service-worker.js"
 }

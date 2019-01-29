@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mrreact.github.io/reactLoginMR/precache-manifest.f9eeafa81b1ede8899bdc08044ccc8fb.js"
+  "/reactLoginMR/precache-manifest.6b5847638f7332dd722d20b860cd330a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/mrreact.github.io/reactLoginMR/index.html", {
+workbox.routing.registerNavigationRoute("/reactLoginMR/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
